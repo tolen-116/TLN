@@ -7,6 +7,7 @@ using namespace std;
 int main()
 {
     float a, b, c, root1, root2;
+    float d;
 
     cout << "Please enter the values of coefficients ( a, b, c ): ";
     cin >> a >> b >> c;
