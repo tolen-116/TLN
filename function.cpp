@@ -6,6 +6,7 @@ class DynamicArray
     private:
         int * data;
         int size;
+        int memory;
 
     public:
         DynamicArray( int size )
